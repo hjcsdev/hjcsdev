@@ -1,12 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=hjcsdev&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" width="100%"/>
-
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=hjcsdev">
-    <img src="https://komarev.com/ghpvc/?username=hjcsdev&label=Profile%20views&color=00FFFF&style=flat-square" alt="hjcsdev's profile views" />
-  </a>
-</p>
-
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
